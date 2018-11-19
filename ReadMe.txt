@@ -2,7 +2,7 @@
 
 This is the README file for the Supplmentary Data and Scripts associated to Pelletier et al. "Predicting plant conservation priorities on a global scale". Here, we explain what each file represents, and the structure of the repository.
 
-The root contains a series of folder and one general file.
+The root contains several folders and one general file.
 
 ~~~~~~~~~~~~~~~~~~~~
 Folders:
