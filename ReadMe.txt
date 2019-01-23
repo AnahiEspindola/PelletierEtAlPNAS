@@ -16,6 +16,9 @@ This folder contains all scripts and data used for the treatment and analysis of
 - ResultsTreatment
 This folder contains the scripts used to produce the figures presented in the article. These scripts also contain commands to calculate general statistics and obtain specific indexes presented in the article.
 
+-ResultsRasters
+This folder contains the Raster layers with the main results presented in the article.
+
 
 ~~~~~~~~~~~~~~~~~~~~
 Files: 
